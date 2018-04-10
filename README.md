@@ -1,2 +1,2 @@
-# comp
-Comp theme for Boostrap 4
+# Comp Theme
+For Boostrap 4
